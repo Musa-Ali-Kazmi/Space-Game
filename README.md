@@ -43,15 +43,15 @@ This is a simple 2D space shooter game developed in Python using the Tkinter lib
 
 ## Screenshots
 
-[Include screenshots of your game here]
+![image](https://github.com/Musa-Ali-Kazmi/Space-Game/assets/123298042/94ffff90-37d2-4c26-9b9d-a3af517f90f8)
+![image](https://github.com/Musa-Ali-Kazmi/Space-Game/assets/123298042/3e0e555b-16fb-4836-8381-5c8207fdb406)
+![image](https://github.com/Musa-Ali-Kazmi/Space-Game/assets/123298042/e0babb5a-69b5-463b-834f-3cff9e4c75b1)
+
 
 ## Dependencies
 
 - Python 3.x
 - Tkinter library (usually comes pre-installed with Python)
-![image](https://github.com/Musa-Ali-Kazmi/Space-Game/assets/123298042/94ffff90-37d2-4c26-9b9d-a3af517f90f8)
-![image](https://github.com/Musa-Ali-Kazmi/Space-Game/assets/123298042/3e0e555b-16fb-4836-8381-5c8207fdb406)
-![image](https://github.com/Musa-Ali-Kazmi/Space-Game/assets/123298042/e0babb5a-69b5-463b-834f-3cff9e4c75b1)
 
 
 ## Acknowledgements
