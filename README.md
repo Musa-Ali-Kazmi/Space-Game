@@ -19,7 +19,7 @@ This is a simple 2D space shooter game developed in Python using the Tkinter lib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/space-shooter-game.git
+   git clone https://github.com/your-username/space-game.git
    ```
 
 2. Navigate to the project directory:
