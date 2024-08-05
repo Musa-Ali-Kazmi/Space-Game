@@ -17,7 +17,7 @@ start_background3 = pygame.image.load('uranus.png').convert_alpha()
 start_background4 = pygame.image.load('planet.png').convert_alpha()
 start = False
 font_start = pygame.font.Font('freesansbold.ttf',30)
-start_textX = 79
+start_textX = 78
 start_textY = 330
 
 
